@@ -49,7 +49,7 @@ git init
 git add .
 git commit -m "Build AI Study Planner"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ai-study-planner.git
+git remote add origin https://github.com/Suriyaprakash-1602/ai-study-planner
 git push -u origin main
 ```
 
